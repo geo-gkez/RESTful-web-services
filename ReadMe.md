@@ -1,10 +1,14 @@
 
-export text file as output and download it, (parallel from order costs) path: http://localhost:8080/JAX_RS_war/rest/api/getTextFileParallel.
+A coffee shop has requested the implementation of an application that will help them calculate the income from all orders made during the day.For this purpose they have exposed 2 REST services that will help you get the data that are needed.
 
-export text file as output and download it,   path: http://localhost:8080/JAX_RS_war/rest/api/getTextFile.
+1.The  1stREST  service  returns  all  the  available  beveragesand  condiments  with  their  respective  cost.
 
-response with total products and orders,   path: http://localhost:8080/JAX_RS_war/rest/api/products or /orders.
+2.The 2ndservice provides data from their ordering system.
 
-response with cost per order,   path: http://localhost:8080/JAX_RS_war/rest/api/cost-per-order.
+The application gets the data from the REST services described above and calculate:
 
-response with total income,   path: http://localhost:8080/JAX_RS_war/rest/api/total.
+1. the cost of each order 
+
+2.thetotal income from all given orders
+
+The outcome of the Java app is a text file that contains the results of the calculations.
