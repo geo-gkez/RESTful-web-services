@@ -13,5 +13,5 @@ The outcome of the Java app is a text file that contains the results of the calc
 
 
 #### USEFUL NOTES
-http://baeldung.com/resteasy-client-tutorial
-https://www.baeldung.com/resteasy-tutorial
+1. http://baeldung.com/resteasy-client-tutorial
+2. https://www.baeldung.com/resteasy-tutorial
