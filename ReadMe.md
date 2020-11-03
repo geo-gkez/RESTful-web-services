@@ -10,3 +10,8 @@ The application gets the data from the REST services described above and calcula
 2. the total income from all given orders
 
 The outcome of the Java app is a text file that contains the results of the calculations.
+
+
+#### USEFUL NOTES
+http://baeldung.com/resteasy-client-tutorial
+https://www.baeldung.com/resteasy-tutorial
