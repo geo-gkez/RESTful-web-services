@@ -11,6 +11,8 @@ The application gets the data from the REST services described above and calcula
 
 The outcome of the Java app is a text file that contains the results of the calculations.
 
+#### FOR deploy with Intellij
+https://medium.com/@nicolaifsf78/intellij-idea-maven-resteasy-tomcat-f95bb41e6362
 
 #### USEFUL NOTES
 1. http://baeldung.com/resteasy-client-tutorial
